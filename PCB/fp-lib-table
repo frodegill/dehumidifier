@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MP3V5004G")(type "KiCad")(uri "/home/frodeg/projects/IoL/PCB/MP3V5004G/MP3V5004G.pretty")(options "")(descr ""))
+  (lib (name "AM2302")(type "KiCad")(uri "/home/frodeg/projects/IoL/PCB/AM2302")(options "")(descr ""))
+)

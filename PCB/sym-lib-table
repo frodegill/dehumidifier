@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "MP3V5004G")(type "Legacy")(uri "/home/frodeg/projects/IoL/PCB/MP3V5004G/MP3V5004G.lib")(options "")(descr ""))
+  (lib (name "AM2302")(type "Legacy")(uri "/home/frodeg/projects/IoL/PCB/AM2302/AM2302.lib")(options "")(descr ""))
+  (lib (name "IoL_3_wires_added-rescue")(type "Legacy")(uri "${KIPRJMOD}/IoL_3_wires_added-rescue.lib")(options "")(descr ""))
+  (lib (name "IoL_1_component_added-rescue")(type "Legacy")(uri "${KIPRJMOD}/IoL_1_component_added-rescue.lib")(options "")(descr ""))
+  (lib (name "IoL_2_labels_added-rescue")(type "Legacy")(uri "${KIPRJMOD}/IoL_2_labels_added-rescue.lib")(options "")(descr ""))
+)
